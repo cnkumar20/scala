@@ -4,7 +4,7 @@ target/
 project/
 .vscode/
 .metals/
-src/main/.bsp
+src/main/\.bsp
 src/main/scala/.scala-build
 *.iml
 *.class
